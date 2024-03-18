@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ecccee212eeaf43b0a9b13180063b8f9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - comic andy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eb1ce27b637d03946ac80f1789941838, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
